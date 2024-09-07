@@ -1,3 +1,5 @@
+<samp>
+
 # sample-ticketing-sarufi
 
 ## Description
@@ -45,3 +47,5 @@ Here are some references links to the technologies used:
 4. https://docs.sarufi.io/docs/sarufi-dashboard/middleware
 5. https://ngrok.com/
 6. https://www.youtube.com/@neurotechafrica/videos
+
+</samp>
